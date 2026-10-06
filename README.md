@@ -1,0 +1,2 @@
+# premium-kozo-bark-001-kozo-bark-processing-cook-cr
+Stop losing track of soaking times, cooking batches, and bark quality notes — your kozo bark processing workflow finally has a home.  This Notion template transforms the chaotic, multi-day process of kozo bark preparation into a clear, repeatable system. Track every soak, cook, and beating session in one place, so you never guess if a batch is read
